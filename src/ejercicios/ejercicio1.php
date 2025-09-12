@@ -2,7 +2,7 @@
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $euros = floatval($_POST["euros"]);
-    $pesetas = $euros * 166.386;        // 1 euro = 166.386 pesetas
+    $pesetas = $euros * 166.386;
 }
 ?>
 
