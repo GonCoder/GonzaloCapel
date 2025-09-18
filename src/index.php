@@ -33,6 +33,13 @@
             <li><a href="ejercicios/ejercicio15.php" target="_blank">Ejercicio 15</a></li>
         </ul>
     </div>
+    <div class="container">
+        <h1>Ejercicios Relación 2</h1>
+        <ul>
+            <li><a href="ejerciciosRelacion2/ejercicioBar.php" target="_blank">Ejercicio Bar Vegetariano</a></li>
+            <li><a href="ejerciciosRelacion2/ejercicioJuegoGanaPierde.php" target="_blank">Ejercicio Gana o Pierde</a></li>
+        </ul>
+    </div>
     <footer>
         &copy; 2025 Gonzalo Capel
     </footer>
