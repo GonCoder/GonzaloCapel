@@ -45,7 +45,7 @@ Este proyecto es un **hub web interactivo** que reúne **15 ejercicios práctico
 ### 📝 Lista de Ejercicios  
 | Nº | Ejercicio | Enlace |
 |----|-----------|--------|
-| 1  | Ejercicio 1 | [🔗 Abrir](src/ejercicios/ejercicio1.php) |
+| 1  | Ejercicio 1 | [🔗 Abrir](./src/ejercicios/ejercicio1.php) |
 | 2  | Ejercicio 2 | [🔗 Abrir](src/ejercicios/ejercicio2.php) |
 | 3  | Ejercicio 3 | [🔗 Abrir](src/ejercicios/ejercicio3.php) |
 | 4  | Ejercicio 4 | [🔗 Abrir](src/ejercicios/ejercicio4.php) |
